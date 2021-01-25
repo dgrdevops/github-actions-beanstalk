@@ -4,7 +4,7 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/dgrdevops/github-actions-beanstalk/workflows/CI-CD-Pipeline-to-AWS-ElasticBeastalk/badge.svg?branch=master"><br>
+<img src="https://github.com/dgrdevops/github-actions-beanstalk/workflows/CI-CD-Pipeline-to-AWS-ElasticBeanstalk/badge.svg?branch=master"><br>
 
 
 In code we trust ;)
